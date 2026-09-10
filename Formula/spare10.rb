@@ -1,8 +1,8 @@
 class Spare10 < Formula
   desc "Circuit breaker that pauses Claude Code before its 5-hour quota runs out"
   homepage "https://github.com/alesdi/spare10"
-  url "https://registry.npmjs.org/spare10/-/spare10-0.1.1.tgz"
-  sha256 "6e44b4a02a9bca8d69a7151bafaac5842524878ee6f5f2a58207f1317371751d"
+  url "https://registry.npmjs.org/spare10/-/spare10-0.1.2.tgz"
+  sha256 "95d46b456aabdcee6d06c899cf1ed9be661df242ddb95830bb2d340d85634201"
   license "MIT"
 
   # spare10 is a Node program. Bundling a runtime would cost 60-110MB and measured
